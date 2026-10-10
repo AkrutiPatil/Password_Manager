@@ -1,0 +1,13 @@
+Password Manager Program
+Uses:
+1- Dictionary
+2-loops
+3-Conditional
+4-Module : random
+5- file handleing
+
+website:password
+
+random module
+file red/write
+real world
